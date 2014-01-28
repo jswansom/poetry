@@ -1,3 +1,7 @@
 git remote -v => See branches
 
 git remote add origin https://github.com/kkester/poetry.git => setup repo ... no idea why this had to be done
+
+git branch -a => See all branches
+
+git log --oneline origin/cleanup
